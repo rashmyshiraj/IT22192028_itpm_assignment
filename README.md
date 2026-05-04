@@ -10,8 +10,7 @@
 2. In Command Prompt,Clone the repository:
           git clone https://github.com/rashmyshiraj/IT22192028_itpm_assignment.git
 3. Navigate to the cloned folder:
-          cd IT22192028-Assignment1
-
+          cd IT22192028_itpm_assignment
 ##  Install the required dependencies (one-time)
 1. From the cloned directory in Command Prompt, run the following commands:
           • pip install -U pip 
