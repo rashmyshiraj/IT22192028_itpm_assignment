@@ -3,6 +3,7 @@
 ## Install prerequisites (one-time) 
 1. Install Python 3.11 or Python 3.12
 2. Install Google Chrome
+3. Install Git: https://git-scm.com/downloads
 
 ## Set up the project environment 
 1. Open the Command Prompt
